@@ -3,6 +3,9 @@
 ## Project Objective:
 This **Restaurant Data Analysis** project uses **Python** (**Pandas, Numpy, Geopandas**) to **clean**, **preprocess**, and **analyze** restaurant data. The goal is to provide **insights** through a comprehensive **analysis** and **geospatial visualization**. Key metrics include **customer preferences**, **restaurant performance**, **location analysis**, and **business trends**. These insights help improve **decision-making**, optimize **operations**, and enhance overall **business growth**.
 
+![Cognifyz Technologies Data Analysis Internship png](https://github.com/user-attachments/assets/3bb04cb2-2726-400c-a4e6-0f17f8ccd9b5)
+
+
 ## Dataset Used:
 - <a href="https://github.com/sayaniketsaini24/Cognifyz-Technologies-Data-Analysis-Internship/blob/main/Cognifyz%20Technologies%20Restaurant%20Dataset.csv">Dataset</a>
 
