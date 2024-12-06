@@ -77,3 +77,23 @@ This **Restaurant Data Analysis** project focuses on transforming raw data into 
   - **Top restaurant chains**: **Café Coffee Day**, **McDonald's**, **Domino's Pizza**.  
   - Popular chains like **Toit** and **Hauz Khas Social** received high ratings and votes.
 
+## **Tools Used:**
+
+- **Google Colab**:  
+  - Used for running the project online with Python and libraries.
+
+- **Python**:  
+  - Main language for data analysis.
+
+- **Pandas**:  
+  - Used for data cleaning and processing.
+
+- **NumPy**:  
+  - Used for numerical calculations.
+
+- **Matplotlib**:  
+  - Used for creating charts and graphs.
+
+- **Seaborn**:  
+  - Used for making attractive statistical plots.
+
