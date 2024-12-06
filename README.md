@@ -6,10 +6,6 @@ This **Restaurant Data Analysis** project uses **Python** (**Pandas, Numpy, Geop
 ## Dataset Used:
 - <a href="https://github.com/sayaniketsaini24/Cognifyz-Technologies-Data-Analysis-Internship/blob/main/Cognifyz%20Technologies%20Restaurant%20Dataset.csv">Dataset</a>
 
-## **About the Project:**
-
-This **Restaurant Data Analysis** project focuses on transforming raw data into meaningful **business insights**. Using **Python** libraries like **Pandas**, **Numpy**, and **Geopandas**, the project covers data **cleaning**, **preprocessing**, and **geospatial visualization**. The goal is to analyze **customer trends**, **restaurant performance**, and **location-based insights** to support better **decision-making** and boost overall **business growth**.
-
 ## **Project Task List:**
 
 ### **Level 01: Data Preprocessing & Basic Analysis**
@@ -96,4 +92,15 @@ This **Restaurant Data Analysis** project focuses on transforming raw data into 
 
 - **Seaborn**:  
   - Used for making attractive statistical plots.
+
+## **Usage:**
+
+1. **View Restaurant Task PDF**:  
+   - Download and view the Restaurant Task PDF for details on the project objectives and tasks. <a href="https://github.com/sayaniketsaini24/Cognifyz-Technologies-Data-Analysis-Internship/blob/main/Cognifyz%20Technologies%20Data%20Analysis%20Internship%20Task.pdf">Clink Here</a>
+
+2. **Open the Google Colab `.ipynb` file**:  
+   - Open the `.ipynb` file in Google Colab to run the analysis and explore the code.
+
+3. **Google Colab file**:  
+   - Access the Google Colab file <a href="https://github.com/sayaniketsaini24/Cognifyz-Technologies-Data-Analysis-Internship/blob/main/Cognifyz_Technologies_Data_Analysis_Internship.ipynb">Clink Here</a>
 
