@@ -43,8 +43,6 @@ This **Restaurant Data Analysis** project focuses on transforming raw data into 
   - **25.66%** of customers prefer restaurants that offer **online delivery**.  
   - **56.86%** of restaurants with delivery services have higher ratings.
 
----
-
 ### **Level 02: Advanced Insights & Visualizations**
 
 **Task 01: Restaurant Ratings**  
