@@ -104,3 +104,13 @@ This **Restaurant Data Analysis** project uses **Python** (**Pandas, Numpy, Geop
 3. **Google Colab file**:  
    - Access the Google Colab file <a href="https://github.com/sayaniketsaini24/Cognifyz-Technologies-Data-Analysis-Internship/blob/main/Cognifyz_Technologies_Data_Analysis_Internship.ipynb">Clink Here</a>
 
+## **Final Conclusion:**
+
+The **sales analysis** and **restaurant data insights** provide valuable information on **cuisine preferences**, **restaurant ratings**, and **geographical trends**. Key findings include:
+
+- **Top cuisines** like **North Indian**, **Mughlai**, and **Chinese** are the most popular across different regions.
+- **New Delhi** has the highest number of restaurants, with cities like **Gurgaon** and **Noida** following closely.
+- **Price range** analysis shows most restaurants fall under the **low price range**, which appeals to a larger customer base.
+- **Online delivery** services are essential, with a positive correlation between **online delivery** and **higher ratings**.
+
+This analysis helps restaurants understand **consumer preferences**, **optimal pricing strategies**, and areas to improve, such as offering **online delivery** or focusing on **high-rated cuisines**.
